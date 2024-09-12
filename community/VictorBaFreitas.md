@@ -49,6 +49,7 @@ cd community/
 pwd
 git branch
 git add NomeDoSeuArquivo
+git commit -m "feat: add NomeDoArquivo"
 git push origin feat/community/SeuUsuário
 ```
 
@@ -109,6 +110,7 @@ cd community/
 pwd
 git branch
 git add YourFileName
+git commit -m "feat: add YourFileName"
 git push origin feat/community/YourUsername
 ```
 
